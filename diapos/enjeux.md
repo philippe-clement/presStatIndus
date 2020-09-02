@@ -16,7 +16,7 @@
 ## Refonte du domaine DESSIN
 
 - Etude d'urbanisation mené en 2020
-- rapport flou sur les points améliorables.
+- rapport flou sur les points 'urbanisables'.
 - NCS pour un projet en cours d'écriture
 - POC Calvados en 2021 ?
 

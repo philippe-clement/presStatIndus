@@ -26,7 +26,7 @@
 ## Gensuivi
 
 - 1 IHM en spring MVC, 1 batch
-# - Ré-écriture d'une application self du SSNE (Liste et Comptage)
+- Ré-écriture d'une application self du SSNE (Liste et Comptage)
 - Projet Generic pas prêt à temps pour éviter cela
 - Intégration des exports de Blaise pour faire le suivi de la collecte
 - Module Generic développé donc doit disparaitre
