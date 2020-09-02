@@ -42,11 +42,7 @@
 - 1 IHM, 27 batchs, 1 WS
 - Utlisation d'un framework maison MVC pour l'IHM qui rend la maintenance exotique.
 - 2 schémas dans la bdd pour gérer l'archivage
-- Récupération des données de SIRENE/SIRUS/OCSANE
-- Récupération des échantillons du DMS
-- Mise à jour des données SIRUS gràce au AVISIRUS
-- Récupération des contacts COLTRANE au format XML
-- Webservice pour gérer l'echantillon des EMB et visbilité contact Coltrane
+
 
 ---
 
@@ -68,9 +64,7 @@
 - Production de fichier de personnalisation pour COLTRANE
 - Intégration des réponses sur COLTRANE
 - Controle et Redressement à l'aide d'une module LSE (Langage de Spécification d'Ésane)
-- Utilisation de WS : IGESA , WS calcul d'APE.
-- Proposition de changement d'APE en fonction des réponses EAP
-- Bascule des questionnaires validées pour CALVADOS : versement dans la BEC : Base Elementaire de Calcul
+- Versement dans la BEC : Base Elementaire de Calcul pour CALVADOS
 
 ---
 
@@ -89,10 +83,10 @@
 
 ## OASIS/c'est pas fini 
 
-- Récupération des données Externes 
-- Affichage dans OASIS
-- Confidentialité de ces données à garantir
-- Utilisation dans d'autres applications CALVADOS
+- Utilisation de WS : IGESA , WS calcul d'APE.
+- Récupération des données Externes pour affichage dans Oasis
+- Gestion de la confidentialité de ces données à garantir
+- Utilisation des données externe dans d'autres applications (CALVADOS)
 
 
 ---
