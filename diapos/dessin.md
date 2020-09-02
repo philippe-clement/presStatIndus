@@ -18,6 +18,7 @@
 ## EAP / COTRANE 
 
 - Collecte sur le site Coltrane depuis 2017
+- Collecte de février à septempbre
 - Pas entrée dans la filière POGUES/ENO 
 - Questionnaires trop personnalisables + tableaux avec unités différentes en ligne
 - Risque en cas de grosses modifications du questionnaire
@@ -50,8 +51,8 @@
 
 - Récupération des données de SIRENE/SIRUS/OCSANE
 - Récupération des échantillons du DMS
-- Mise à jour des données SIRUS gràce au AVISIRUS
-- Récupération des contacts COLTRANE au format XML
+- Mise à jour des données SIRUS gràce aux AVISIRUS
+- Récupération des contacts COLTRANE 
 - Webservice pour gérer l'echantillon des EMB et visbilité contact Coltrane
 
 ---
@@ -79,7 +80,7 @@
 - Avantage : ca marche bien ...
 - Inconvénient : si Problème ou modification du questionnaire, ca serait compliqué à expertiser
 
---
+---
 
 ## OASIS/c'est pas fini 
 
@@ -95,12 +96,12 @@
 
 - CALcul et VALidation des DOnneeS
 - 1 IHM, 33 Batchs
-- Utlise les données validées de l'EAP + FUL + IAE
-- Traitement de la nom-réponse (imputation)
+- Utlise les données validées de l'EAP 
+- Traitement de la non-réponse (imputation)
 - Utilisation de la BEC pour Agregation
-- IHM pour validation les agrégats
+- IHM pour validation des agrégats
 - Première publication d'indicateur à Eurostat au 30 juin
-- Utilisation d'une Base Elémentaire de Diffusion pour garder ces publications
+- Utilisation d'une Base Elémentaire de Diffusion 
 
 
 
@@ -108,6 +109,7 @@
 
 ## ORESTE
 
-- Gestion des restructuration
-- 1 IHm, A batch
+- Gestion des restructurations
+- 1 IHM, 1 batch
 - échange avec CITRUS dans les 2 sens
+- peu ou pas d'évolution
