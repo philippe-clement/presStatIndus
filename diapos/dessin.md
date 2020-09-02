@@ -4,22 +4,22 @@
 
 ## Présentation
 
-- gestion des enquêtes annuelles de production 
-- utilisateurs principaux : SSNE et ESPRI
-- autres utilisateurs : EMBRUN, ESANE, ...
+- Gestion des enquêtes annuelles de production 
+- Utilisationtilisateurs principaux : SSNE et ESPRI
+- Autres utilisateurs : EMBRUN, ESANE, ...
 - 3 enquêtes pour un echantillon totale de 36000 ul 
 - 5 IHM, 81 batchs, 1 api(WS)
-- 1 base de données communes en Oracle actuellement
-- Technologie identtique JAVA/ Struts2  sauf FUL ...
+- 1 base de données commune en Oracle actuellement
+- Technologie identique JAVA/Struts2 sauf FUL ...
 
 
 ---
 
 ## EAP / COTRANE 
 
-- collecte sur le site Coltrane depuis 2017
+- Collecte sur le site Coltrane depuis 2017
 - Pas entrée dans la filière POGUES/ENO 
-- questionnaires trop personnalisable + tableaux avec unités différentes en ligne
+- Questionnaires trop personnalisables + tableaux avec unités différentes en ligne
 - Risque en cas de grosses modifications du questionnaire
 - Ajout de question pour le moment possible si on peut passer par POGUES (question générale)
 - Pb récupérant entre adresses SIRUS et COLTRANE non compatibles
@@ -38,11 +38,17 @@
 
 ## FUL
 
-- Héritage du répertoire d'unités statisitiques du SESSI
+- Héritage du répertoire d'unités statistiques du SESSI
 - 1 IHM, 27 batchs, 1 WS
-- Utlisation d'un frameword maison MVC à l'IHM qui rend la maintenance exotique.
+- Utlisation d'un framework maison MVC pour l'IHM qui rend la maintenance exotique.
+- 2 schémas dans la bdd pour gérer l'archivage
+
+-- 
+
+## FUL (suite)
+
 - Récupération des données de SIRENE/SIRUS/OCSANE
-- Récupération des echantillons du DMS
+- Récupération des échantillons du DMS
 - Mise à jour des données SIRUS gràce au AVISIRUS
 - Récupération des contacts COLTRANE au format XML
 - Webservice pour gérer l'echantillon des EMB et visbilité contact Coltrane

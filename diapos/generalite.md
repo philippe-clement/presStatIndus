@@ -1,4 +1,4 @@
-# Generalite
+# Generalites
 
 ---
 
