@@ -9,7 +9,7 @@
 
 ---
 
-- Métier : poste collecte des enquêtes EAP, EACEI, OPISE. 
+- Métier : gestion collecte des enquêtes EAP, EACEI, OPISE. 
 - Utilisateurs : gestionnaire de pôle Caen, Toulouse, Lyon
 - 8 applications en maintenance
 - En partie héritage des applications de l'ex SESSI
