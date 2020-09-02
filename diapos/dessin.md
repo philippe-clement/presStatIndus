@@ -50,17 +50,13 @@
 
 ---
 
-## OASIS
+## FUL(suite)
 
-- Outil pour la gestion de la collecte des EAP
-- 1 IHM, 19 batchs
-- Récupération des données de FUL et IAE pour constituer les questionnaires
-- Production de fichier de personnalisation pour COLTRANE
-- Intégration des réponses sur COLTRANE
-- Controle et Redressement à l'aide d'une module LSE (Langage de Spécification d'Ésane)
-- Utilisation de WS : IGESA , WS calcul d'APE.
-- Proposition de changement d'APE en fonction des réponses EAP
-- Bascule des questionnaires validées pour CALVADOS : versement dans la BEC : Base Elementaire de Calcul
+- Récupération des données de SIRENE/SIRUS/OCSANE
+- Récupération des échantillons du DMS
+- Mise à jour des données SIRUS gràce au AVISIRUS
+- Récupération des contacts COLTRANE au format XML
+- Webservice pour gérer l'echantillon des EMB et visbilité contact Coltrane
 
 ---
 
