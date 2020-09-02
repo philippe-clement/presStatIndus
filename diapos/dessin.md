@@ -43,7 +43,7 @@
 - Utlisation d'un framework maison MVC pour l'IHM qui rend la maintenance exotique.
 - 2 schémas dans la bdd pour gérer l'archivage
 
--- 
+--- 
 
 ## FUL (suite)
 
