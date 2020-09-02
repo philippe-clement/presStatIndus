@@ -1,3 +1,3 @@
-# GENERIC
+# DOMAINE STATISTIQUES INDUSTRIELLES
 
-## Présentation du domaine Statistiques Industrielles
+
