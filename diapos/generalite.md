@@ -13,4 +13,5 @@
 - Utilisateurs : gestionnaires de pôle Caen, Toulouse, Lyon
 - 8 applications en maintenance
 - En partie héritage des applications de l'ex SESSI
+- Proche d'un point de vue métier et technologie.
 
