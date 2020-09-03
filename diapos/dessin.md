@@ -5,9 +5,9 @@
 ## Présentation
 
 - Gestion des enquêtes annuelles de production 
-- Utilisationtilisateurs principaux : SSNE et ESPRI
+- Utilisateurs principaux : SSNE et ESPRI
 - Autres utilisateurs : EMBRUN, ESANE, ...
-- 3 enquêtes pour un echantillon totale de 36000 ul 
+- 3 enquêtes pour un echantillon total de 36000 ul 
 - 5 IHM, 81 batchs, 1 api(WS)
 - 1 base de données commune en Oracle actuellement
 - Technologie identique JAVA/Struts2 sauf FUL ...
@@ -23,10 +23,11 @@
 - Questionnaires trop personnalisables + tableaux avec unités différentes en ligne
 - Risque en cas de grosses modifications du questionnaire
 - Ajout de question pour le moment possible si on peut passer par POGUES (question générale)
-- Pb récupérant entre adresses SIRUS et COLTRANE non compatibles
+- Problèmes récurrents entre adresses SIRUS et COLTRANE non compatibles
 
 
 ---
+
 ## IAE
 
 - Infrastructure Amont des Enquêtes
@@ -49,11 +50,11 @@
 
 ## FUL(suite)
 
-- Récupération des données de SIRENE/SIRUS/OCSANE
+- Récupération des données de SIRENE/SIRUS/OCSANE/PROFILAGE
 - Récupération des échantillons du DMS
 - Mise à jour des données SIRUS gràce aux AVISIRUS
 - Récupération des contacts COLTRANE 
-- Webservice pour gérer l'echantillon des EMB et visbilité contact Coltrane
+- Webservice pour gérer l'echantillon des EMB et visbilité contacts Coltrane
 
 ---
 
@@ -62,19 +63,19 @@
 - Outil pour la gestion de la collecte des EAP
 - 1 IHM, 19 batchs
 - Récupération des données de FUL et IAE pour constituer les questionnaires
-- Production de fichier de personnalisation pour COLTRANE
+- Production de fichiers de personnalisation pour COLTRANE
 - Intégration des réponses sur COLTRANE
-- Controle et Redressement à l'aide d'une module LSE (Langage de Spécification d'Ésane)
-- Versement dans la BEC : Base Elementaire de Calcul pour CALVADOS
+- Contrôles et Redressements à l'aide d'un module LSE (Langage de Spécification d'Ésane)
+- Versements dans la BEC : Base Elémentaire de Calcul pour CALVADOS
 
 ---
 
 ## OASIS/ENCORE
 
-- ENquete COntrôle et REdressement
-- Contrôle et redressements de l'Enquête annuelle
+- ENquete COntrôles et REdressements
+- Contrôles et redressements de l'Enquête Annuelle de Production
 - Utilisation du LSE
-- Pseudo-code écrit par Statisticiens
+- Pseudo-code écrit par des Statisticiens
 - Compilateur pour générer du code JAVA
 - Intégration des classes JAVA dans OASIS
 - Avantage : ca marche bien ...
@@ -84,23 +85,23 @@
 
 ## OASIS/c'est pas fini 
 
-- Utilisation de WS : IGESA , WS calcul d'APE.
-- Récupération des données Externes pour affichage dans Oasis
-- Gestion de la confidentialité de ces données à garantir
-- Utilisation des données externe dans d'autres applications (CALVADOS)
+- Utilisation de WS : IGESA , WS calculs d'APE.
+- Récupération des données externes pour affichage dans Oasis.
+- Gestion de la confidentialité de ces données à garantir.
+- Utilisation des données externes dans d'autres applications (CALVADOS).
 
 
 ---
 
 ## CALVADOS
 
-- CALcul et VALidation des DOnneeS
+- CALcul et VALidation des DOnnéeS
 - 1 IHM, 33 Batchs
 - Utlise les données validées de l'EAP 
 - Traitement de la non-réponse (imputation)
-- Utilisation de la BEC pour Agregation
+- Utilisation de la BEC pour agrégation
 - IHM pour validation des agrégats
-- Première publication d'indicateur à Eurostat au 30 juin
+- Première publication d'indicateurs à Eurostat au 30 juin
 - Utilisation d'une Base Elémentaire de Diffusion 
 
 
@@ -111,5 +112,5 @@
 
 - Gestion des restructurations
 - 1 IHM, 1 batch
-- échange avec CITRUS dans les 2 sens
-- peu ou pas d'évolution
+- échanges avec CITRUS dans les 2 sens
+- peu ou pas d'évolutions
