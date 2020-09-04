@@ -15,7 +15,7 @@
 
 ## Refonte du domaine DESSIN
 
-- Etude d'urbanisation mené en 2020
+- Etude d'urbanisation menée en 2020
 - rapport flou sur les points 'urbanisables'.
 - NCS pour un projet en cours d'écriture
 - POC Calvados en 2021 ?
@@ -26,13 +26,13 @@
 
 - Audit à finir pour les applications du groupe
 - Certaines actions entamées
-- Modernisation d'application un peu vieillissante.
+- Modernisation d'applications un peu vieillissantes.
 
 ---
 
 ## Orga du groupe
 
-- 'agilité' en maintenance
+- 'Agilité' en maintenance
 - Méthode Kanban
-- polyvalence des RIA sur plusieurs applications
-- séance de travaux en commun
+- Polyvalence des RIA sur plusieurs applications
+- Séances de travaux en commun

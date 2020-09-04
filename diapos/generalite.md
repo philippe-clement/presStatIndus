@@ -4,7 +4,7 @@
 
 - 10 personnes : 8 agents à Paris / 1 agent à Caen / le chef de groupe
 - MOA : DSE-DSCT-IPP / DSE-DSCT-ESPRI / DSE-DSS-ETET
-- AMOA : Yves BOURNIQUES
+- AMOA : Yves BOURNIQUE
 - RIAP : Bénédicte FREBOURG
 
 ---
