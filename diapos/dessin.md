@@ -15,10 +15,10 @@
 
 ---
 
-## EAP / COTRANE 
+## EAP / COLTRANE 
 
 - Collecte sur le site Coltrane depuis 2017
-- Collecte de février à septempbre
+- Collecte de février à septembre
 - Pas entrée dans la filière POGUES/ENO 
 - Questionnaires trop personnalisables + tableaux avec unités différentes en ligne
 - Risque en cas de grosses modifications du questionnaire
@@ -103,6 +103,7 @@
 - IHM pour validation des agrégats
 - Première publication d'indicateurs à Eurostat au 30 juin
 - Utilisation d'une Base Elémentaire de Diffusion 
+- Code très 'sql' et complexe à comprendre mais efficace
 
 
 
@@ -113,4 +114,4 @@
 - Gestion des restructurations
 - 1 IHM, 1 batch
 - échanges avec CITRUS dans les 2 sens
-- peu ou pas d'évolutions
+- pas d'évolutions

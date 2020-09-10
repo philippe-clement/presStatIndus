@@ -9,9 +9,10 @@
 
 ---
 
-- Métier : gestion collecte des enquêtes EAP, EACEI, OPISE. 
-- Utilisateurs : gestionnaires de pôle Caen, Toulouse, Lyon
+- Métier : gestion des enquêtes EAP, EACEI, OPISE hors collecte internet(COLTRANE). 
+- Utilisateurs : gestionnaires de pôle Caen, Toulouse, Lyon + DSE
 - 8 applications en maintenance
 - En partie héritage des applications de l'ex SESSI
 - Proche d'un point de vue métier et technologie.
+- Utilise MAJIBA v2 et SYNATRA
 
