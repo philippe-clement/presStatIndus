@@ -6,7 +6,7 @@
 
 - Outil pour la gestion de la collecte d'OPISE (mens et trim)
 - Utilisateurs : IPP - Caen - Lyon
-- 7000 qquestionnaires : echantillon en continu
+- 7000 questionnaires : echantillon en continu
 - 1 IHM (sur 2 url), 21 batchs
 - JAVA/STRUST2/SPRING/HIBERNATE
 - BDD Oracle
@@ -34,4 +34,4 @@
 - Utilisation de WS : IGESA 
 - Utilisation du SST pour relation avec l'editique
 - Publications mensuelles
-
+- clone en lecture et écriture

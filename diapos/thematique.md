@@ -7,9 +7,11 @@
 - Gestion de l'enquête EACEI
 - Collecte de janvier à mai
 - Une des premières applications intégrées au CEI
-- 1 IHM , 3 batchs
+- 1 IHM , 3 chaine de batchs
 - Gestionnaire : SSNE 
 - Filière POGUES/ENO/COLTRANE
+- 8500 questionnaires
+- JAVA/STRUST2/HIBERNATE
 
 
 ---
@@ -17,7 +19,7 @@
 ## Octavie (suite)
 
 - Intégration des réponses Coltrane
-- Contrôles développés en JAVA 
+- Contrôles développés en JAVA  (pas de LSE)
 - Domaine Résultat pour vérification d'agrégats
 - Avenir incertain depuis la naissance de Generic
 

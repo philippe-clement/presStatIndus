@@ -4,7 +4,7 @@
 
 - 10 personnes : 8 agents à Paris / 1 agent à Caen / le chef de groupe
 - MOA : DSE-DSCT-IPP / DSE-DSCT-ESPRI / DSE-DSS-ETET
-- AMOA : Yves BOURNIQUE
+- AMOA : Françcoise CADIN
 - RIAP : Bénédicte FREBOURG
 
 ---
@@ -14,5 +14,5 @@
 - 8 applications en maintenance
 - En partie héritage des applications de l'ex SESSI
 - Proche d'un point de vue métier et technologie.
-- Utilise MAJIBA v2 et SYNATRA
+- Utilise MAJIBA et SYNATRA
 

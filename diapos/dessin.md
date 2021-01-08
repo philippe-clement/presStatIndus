@@ -8,7 +8,7 @@
 - Utilisateurs principaux : SSNE et ESPRI
 - Autres utilisateurs : EMBRUN, ESANE, ...
 - 3 enquêtes pour un echantillon total de 36000 ul 
-- 5 IHM, 81 batchs, 1 api(WS)
+- 4 IHM, 81 batchs, 1 api(WS)
 - 1 base de données commune en Oracle actuellement
 - Technologie identique JAVA/Struts2 sauf FUL ...
 
@@ -103,7 +103,7 @@
 - IHM pour validation des agrégats
 - Première publication d'indicateurs à Eurostat au 30 juin
 - Utilisation d'une Base Elémentaire de Diffusion 
-- Code très 'sql' et complexe à comprendre mais efficace
+- Code très 'sql' et complexe à comprendre mais efficacegithuib
 
 
 
@@ -112,6 +112,6 @@
 ## ORESTE
 
 - Gestion des restructurations
-- 1 IHM, 1 batch
-- échanges avec CITRUS dans les 2 sens
-- pas d'évolutions
+- 1 batch
+- échanges avec CITRUS pour récupérer les restructuration
+- reflexion pour l'utlisation du WS Citrus en remplacement du batch.

@@ -20,6 +20,16 @@
 - NCS pour un projet en cours d'écriture
 - POC Calvados en 2021 ?
 
+
+---
+
+## Arrêt de la filière BDOC
+
+- Problème pour PAPAYE et DESSIN car par dans POGUES
+- Développement ad hoc pour Dessin.
+- Grosse interrogation pour PAPAYE
+
+
 ---
 
 ## Qualité du développement 
