@@ -103,7 +103,7 @@
 - IHM pour validation des agrégats
 - Première publication d'indicateurs à Eurostat au 30 juin
 - Utilisation d'une Base Elémentaire de Diffusion 
-- Code très 'sql' et complexe à comprendre mais efficacegithuib
+- Code très 'sql' et complexe à comprendre mais efficace
 
 
 
