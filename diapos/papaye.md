@@ -7,7 +7,7 @@
 - Arrivée le 01 mars de Olivier RICCIARDI
 - Arrivée le 05 Jullet de David HERRENSCHMIDT
 - Arrivée le 01 septembre de Maelys DAVID
-- Plus de plyvalence entre mainteniciens
+- Plus de polyvalence entre mainteniciens
 - Bon vent à Jean-Baptiste et Sofiane pour leur nouvelle mission
 
 ---
