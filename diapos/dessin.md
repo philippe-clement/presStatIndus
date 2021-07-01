@@ -4,8 +4,8 @@
 
 ## La vie est un long fleuve tranquille
 
-- Collecte 2020 avec des taux de réponse équivalent à l'avant-crise
-- Peu d'incident autre que les incidents majeurs du CEI
+- Collecte 2020 avec des taux de réponse équivalents à l'avant-crise
+- Peu d'incidents autres que les incidents majeurs du CEI
 - Méthode Kanban pour gérer la maintenance appréciée de tous (MOA,DEV ...)
 - Opération Qualité redonne motivation sur application LEGACY
 

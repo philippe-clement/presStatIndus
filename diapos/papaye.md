@@ -2,7 +2,7 @@
 
 ---
 
-## Une belle équipe ...
+## Une belle équipe...
 
 - Bon vent à Jean-Baptiste et Sofiane pour leur nouvelle mission
 - Arrivée le 01 mars de Olivier RICCIARDI
@@ -17,7 +17,7 @@
 
 - Papaye : enfin de 'vraies' évolutions vont pouvoir être lancées
 - Idem sur le domaine DESSIN 
-- Refonte du domaine DESSIN : ca va bien arriver ...
+- Refonte du domaine DESSIN : ça va bien arriver...
 - les travaux qualité vont continuer...
 
 
